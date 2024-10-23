@@ -1,5 +1,9 @@
 # gbr customs
 gsecrets.py
+cfg.py
+
+#test output image repo
+camera-tests-012/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -9,6 +13,7 @@ __pycache__/
 # C extensions
 *.so
 
+*.DS_Store
 # Distribution / packaging
 .Python
 build/

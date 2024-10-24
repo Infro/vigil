@@ -1,0 +1,12 @@
+pillow
+opencv-python
+torch
+torchvision
+numpy
+#smtplib
+#git+https://github.com/facebookresearch/segment-anything.git
+transformers
+python-dotenv
+paramiko
+# requests
+# matplotlib

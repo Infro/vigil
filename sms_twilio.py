@@ -1,6 +1,6 @@
 from twilio.rest import Client
 from datetime import datetime
-from gsecrets import *
+from _gsecrets import *
 
 # Twilio configuration (replace with your actual credentials)
 account_sid = twilio_account_sid
